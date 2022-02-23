@@ -1,7 +1,7 @@
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Instalao_0"></a>Instalação</h2>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Para instalar o programa, siga esses passos:</p>
 <pre><code class="has-line-data" data-line-start="4" data-line-end="8" class="language-sh">git <span class="hljs-built_in">clone</span> https://github.com/clauds-macedo/ProjetoRedes.git
-<span class="hljs-built_in">cd</span> ProjetosRedes
+<span class="hljs-built_in">cd</span> ProjetoRedes
 pip install -r requirements.txt
 </code></pre>
 <p class="has-line-data" data-line-start="8" data-line-end="9"><code>Nota: Em alguns computadores a biblioteca &quot;Cryptography&quot; não instala corretamente em conjunto ao &quot;requirements.txt&quot;. Caso ocorra, utilize o comando: pip install cryptography</code></p>
