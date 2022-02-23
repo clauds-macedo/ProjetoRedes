@@ -1,8 +1,6 @@
 import socket
 import threading
-import time
 from cryptography.fernet import Fernet
-# ip_server = socket.gethostbyname(socket.gethostname())
 
 ip_server = "127.0.1.1"
 port = 10022
