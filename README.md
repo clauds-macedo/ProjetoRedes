@@ -11,7 +11,7 @@ pip install -r requirements.txt
 <p class="has-line-data" data-line-start="15" data-line-end="16">Ou</p>
 <pre><code class="has-line-data" data-line-start="17" data-line-end="19">python3 .\server.py
 </code></pre>
-<p class="has-line-data" data-line-start="20" data-line-end="21">Com o servidor inicializado, abra mais um terminal agora está apto para iniciar o cliente:</p>
+<p class="has-line-data" data-line-start="20" data-line-end="21">Com o servidor inicializado, abra mais um terminal e agora estará apto para iniciar o cliente:</p>
 <pre><code class="has-line-data" data-line-start="22" data-line-end="24">python .\tela_principal.py
 </code></pre>
 <p class="has-line-data" data-line-start="25" data-line-end="26">Ou</p>
