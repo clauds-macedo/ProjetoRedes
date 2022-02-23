@@ -18,7 +18,7 @@ pip install -r requirements.txt
 <pre><code class="has-line-data" data-line-start="27" data-line-end="29">python3 .\tela_principal.py
 </code></pre>
 <ul>
-  Passos
+  <h2>Passos</h2>
   <li>Ao executar o arquivo "tela_principal.py", escolha a opção de criptografia e insira uma mensagem qualquer.</li>
   <li>Após ter dado OK, feche a janela e vá na opção de descriptografar, insira o código que foi automaticamente copiado para sua área de transferência e, novamente, clique em OK.</li>
   Com isso, a mensagem será descriptografada.
